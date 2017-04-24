@@ -2,8 +2,8 @@
 InfoGripe
 ============
 
-.. figure:: data/fiocruz_procc_logo.svg
-	:name: fig-fio-procc-logo
+.. figure:: data/logo.svg
+	:name: fig-logo
 	:height: 65px
 	:alt: Fiocruz and PROCC logo
 		 
